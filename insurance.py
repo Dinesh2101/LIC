@@ -1,4 +1,4 @@
-a="dinesh"
+a="dinesharasu"
 re=""
 for i in a:
     re=i+re
